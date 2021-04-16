@@ -1,0 +1,27 @@
+/* mobile view */
+header{
+    background-color:rgb(2, 2, 75);
+    color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+h1{
+    font-size: 52px;
+    text-align: center;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+}
+
+#menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    list-style: none;
+    background-color: red;
+}
